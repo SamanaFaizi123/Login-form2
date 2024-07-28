@@ -62,11 +62,11 @@ form h1{
     background: linear-gradient(to right,rgb(239, 59, 239),rgb(51, 89, 102));
 }.par2{
     text-align: center;
-    margin-top: 11px;
-    padding: 11px;
+    margin-top: 10px;
+    padding: 10px;
 }.fab{
     text-align: center;
-    padding: 5px;
+    padding: 6px;
     margin-left: 70px;
 
 }
