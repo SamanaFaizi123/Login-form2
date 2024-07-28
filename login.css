@@ -31,10 +31,10 @@ form h1{
     border-right: none;
     border-bottom: 1px solid black;
     width: 330px;
-    padding: 11px;
+    padding: 10px;
 }.icon{
     position: relative;
-    left: 20px;
+    left: 21px;
     color: gray;
     
 }input::placeholder{
